@@ -27,6 +27,7 @@ This provides context before transitioning into ticket creation.
 Click All in the application navigator
 
 Search for Incident
+<img width="1469" height="780" alt="image" src="https://github.com/user-attachments/assets/52670f67-13df-46a1-b1d2-ec91cb4c79fb" />
 
 Select Incident from the menu
 
