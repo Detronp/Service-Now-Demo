@@ -34,6 +34,7 @@ Select Incident from the menu
 This opens the Incident list view.
 
 4. Create a New Incident Ticket
+<img width="1830" height="831" alt="image" src="https://github.com/user-attachments/assets/ddebb072-6017-47fa-8ea9-0f6b355718de" />
 
 Click New to create a ticket
 
