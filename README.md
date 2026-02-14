@@ -8,6 +8,7 @@ Demo Steps
 1. Instance Ready
 
 The ServiceNow account and instance are already set up.
+<img width="1903" height="951" alt="image" src="https://github.com/user-attachments/assets/85deef8b-93bd-4850-b010-f9368bfa83c2" />
 
 Note: Instance creation can take time, so this step is intentionally skipped to keep the demo efficient and focused on workflow execution.
 
