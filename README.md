@@ -1,4 +1,4 @@
-https://www.loom.com/share/f6bce8beb403409bb2c5a46aecf10d58
+https://www.loom.com/share/d1a780b78eb44bb58a0fe3c7db27ed90
 This ServiceNow demo briefly demonstrates navigating the platform and creating an incident ticket. The instance is preconfigured to keep the focus on workflow execution.
 
 The demo covers a short dashboard overview, accessing the Incident module, creating a new ticket with proper documentation, and submitting it successfully. The incident appears in the list, confirming completion of the core ITSM process.
